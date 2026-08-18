@@ -1,4 +1,4 @@
-# Arnab Bera  <img src="./icons8-code-64.png" width="30" margin-bottom="-2">
+# Arnab Bera  <img src="./icons8-code-64.png" width="30" margin-bottom="-20">
 <span style="color:green">green</span><b>👨‍💻 Computer Science Student | Full-Stack Developer | AI Enthusiast<br><br>🎓 Computer Science & Engineering student passionate about Software Development, Artificial Intelligence, and Data Structures & Algorithms.<br><br>💻 I build practical applications using Python, JavaScript, Java, Node.js, Express.js, SQL, and modern web technologies.<br><br>🧠 Currently strengthening my skills in DSA, AI/ML, Data Analytics, Backend Development, and Problem Solving.<br><br>🚀 Interested in building scalable, user-focused solutions and continuously learning technologies that shape the future of software.</b>
 
 
